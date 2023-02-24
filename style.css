@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    background-color: red;
+    width: 100%;
+    height: auto;
+}
+
+p {
+    border: 1px solid blue;
+    height: 300px;
+    
+
+}
+
+.h1 {
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
